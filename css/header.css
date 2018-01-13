@@ -1,0 +1,30 @@
+.navbar-default {
+    background-color:black;
+        color:white;
+		padding:10px 0px;
+		}
+
+  .navbar-brand {
+    color:white !important;
+    font-family:"sans serif";
+  }
+
+  .navbar-brand {
+    color:white !important;
+    font-family:"sans serif";
+  }
+  #search_main {
+
+
+margin-top:100px;
+z-index:8;
+
+}
+
+#search_main .name {
+  margin-top:50px;
+}
+
+hr {
+  border:1px solid lightgrey;
+}
